@@ -1,1 +1,4 @@
-dummy
+other
+print dummy
+print stuff
+print other stuff
